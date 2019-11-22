@@ -1,0 +1,165 @@
+#,NAME,Gender,WD/WE,Batch,Instructor,REMARKS,Month,Age,Batch timings,Fees
+1,K. Poorshiktha ,Female,WD,Toddler,G/J/J,No reason,Before August,3.5 to 5,4pm to 5 pm,1300
+2,K. Poorniktha,Female,WD,Toddler,G/J/J,No reason,Before August,3.5 to 5,4pm to 5 pm,1300
+3,Kousthiban ,Male,WD,Toddler,G/J/J,No reason,Before August,3.5 to 5,4pm to 5 pm,1300
+4,Allen,Male,WD,Toddler,G/J/J,No reason,Before August,3.5 to 5,4pm to 5 pm,1300
+5,Tejal,Male,WD,Toddler,G/J/J,No reason,Before August,3.5 to 5,4pm to 5 pm,1300
+6,Raksheith,Male,WD,Toddler,G/J/J,Annual holidays,Before August,3.5 to 5,4pm to 5 pm,1300
+7,Thejesh,Male,WD,Jr Kid,G/J/J,Annual holidays,Before August,6 to 8,5pm to 6pm,1400
+8,Varshita,Female,WD,Jr Kid,G/J/J,No reason,Before August,6 to 8,5pm to 6pm,1400
+9,Shohaliya,Female,WD,Jr Kid,G/J/J,No reason,Before August,6 to 8,5pm to 6pm,1400
+10,Ghavish,Male,WD,Jr Kid,G/J/J,No reason,Before August,6 to 8,5pm to 6pm,1400
+11,Diyan,Male,WD,Jr Kid,G/J/J,No reason,Before August,6 to 8,5pm to 6pm,1400
+12,Ronav,Male,WD,Jr Kid,G/J/J,No reason,Before August,6 to 8,5pm to 6pm,1400
+13,Harshini,Female,WD,Jr Kid,G/J/J,No reason,Before August,6 to 8,5pm to 6pm,1400
+14,Loshini,Female,WD,Jr Kid,G/J/J,No reason,Before August,6 to 8,5pm to 6pm,1400
+15,Pranaav Dharshan,Male,WD,Sr kid,G/J/J,No reason,Before August,9 to 12,6pm to 7pm,1500
+16,Sangeetha,Female,WD,Teens,G/J/J,No reason,Before August,13 to 21,7pm to 8pm,1500
+17,Bhavya,Female,WD,Teens,G/J/J,No reason,Before August,13 to 21,7pm to 8pm,1500
+18,Prasanth,Male,WD,Teens,G/J/J,No reason,Before August,13 to 21,7pm to 8pm,1500
+19,Ashika,Female,WD,Adults,G/J/J,No reason,Before August,>22,8pm to 9pm,1500
+20,Nivethitha,Female,WD,Adults,G/J/J,No reason,Before August,>22,8pm to 9pm,1500
+21,Athithan,Male,WD,Adults,G/J/J,No reason,Before August,>22,8pm to 9pm,1500
+22,Archana ,Female,WD,Adults,G/J/J,No reason,Before August,>22,8pm to 9pm,1500
+23,Keerthana,Male,WD,Adults,G/J/J,No reason,Before August,>22,8pm to 9pm,1500
+24,Abilash,Male,WD,Adults,G/J/J,No reason,Before August,>22,8pm to 9pm,1500
+25,Kokila,Female,WD,Adults,G/J/J,No reason,Before August,>22,8pm to 9pm,1500
+26,Sai Arjun Mahesh,Male,WE,Toddler,G/J/J,No reason,Before August,3.5 to 5,0,1300
+27,Ishal Khan,Male,WE,Toddler,G/J/J,No reason,Before August,3.5 to 5,0,1300
+28,J.Jingyashree Mishra,Female,WE,Toddler,G/J/J,No reason,Before August,3.5 to 5,0,1300
+29,B.Vedhashri,Female,WE,Toddler,G/J/J,No reason,Before August,3.5 to 5,0,1300
+30,R. Saatvika Swain,Female,WE,Toddler,G/J/J,No reason,Before August,3.5 to 5,0,1300
+31,B.Shahir Gantayat,Female,WE,Toddler,G/J/J,No reason,Before August,3.5 to 5,0,1300
+32,Thikshit.R,Male,WE,Toddler,G/J/J,No reason,Before August,3.5 to 5,0,1300
+33,Dev Dharshan,Male,WE,Toddler,G/J/J,No reason,Before August,3.5 to 5,0,1300
+34,Jaanavi Karthick,Female,WE,Toddler,G/J/J,No reason,Before August,3.5 to 5,0,1300
+35,Haasini Haneesh,Female,WE,Toddler,G/J/J,No reason,Before August,3.5 to 5,0,1300
+36,S.Jane Sherin,Female,WE,Toddler,G/J/J,No reason,Before August,3.5 to 5,0,1300
+37,M.A.hasvika,Female,WE,Toddler,G/J/J,No reason,Before August,3.5 to 5,0,1300
+38,S.Sasha,Female,WE,Toddler,G/J/J,No reason,Before August,3.5 to 5,0,1300
+39,Mithula,Female,WE,Toddler,G/J/J,No reason,Before August,3.5 to 5,0,1300
+40,Luckshithan,Male,WE,Toddler,G/J/J,No reason,Before August,3.5 to 5,0,1300
+41,Arjun,Male,WE,Toddler,G/J/J,No reason,Before August,3.5 to 5,0,1300
+42,Advaith,Male,WE,Toddler,G/J/J,No reason,Before August,3.5 to 5,0,1300
+43,Tia Yadav,Male,WE,Toddler,G/J/J,No reason,Before August,3.5 to 5,0,1300
+44,Vikram,Male,WE,Toddler,G/J/J,No reason,Before August,3.5 to 5,0,1300
+45,Gowshick Prakash,Male,WE,Jr kid,G/J/J,No reason,Before August,6 to 8,0,1400
+46,M.Anusha Shibani,Female,WE,Jr kid,G/J/J,No reason,Before August,6 to 8,0,1400
+47,Harshita.V,Female,WE,Jr kid,G/J/J,No reason,Before August,6 to 8,0,1400
+48,C.R. Manaswini,Female,WE,Jr kid,G/J/J,No reason,Before August,6 to 8,0,1400
+49,Isha Mahesh,Female,WE,Jr kid,G/J/J,No reason,Before August,6 to 8,0,1400
+50,S.Karthikeyan,Male,WE,Jr kid,G/J/J,No reason,Before August,6 to 8,0,1400
+51,M. Chris lynda Harriet,Male,WE,Jr kid,G/J/J,No reason,Before August,6 to 8,0,1400
+52,A.S. Vethakruntha,Male,WE,Jr kid,G/J/J,No reason,Before August,6 to 8,0,1400
+53,V.Siddharth,Male,WE,Jr kid,G/J/J,No reason,Before August,6 to 8,0,1400
+54,Jeevan Prakash,Male,WE,Jr kid,G/J/J,No reason,Before August,6 to 8,0,1400
+55,Udit Krishnan,Male,WE,Sr kid,G/J/J,No reason,Before August,9 to 12,0,1500
+56,Shamrika,Female,WE,Sr kid,G/J/J,No reason,Before August,9 to 12,0,1500
+57,Shashaanth,Male,WE,Sr kid,G/J/J,No reason,Before August,9 to 12,0,1500
+58,R.Santhiya,Female,WE,Sr kid,G/J/J,No reason,Before August,9 to 12,0,1500
+59,S.Varshika,Female,WE,Sr kid,G/J/J,No reason,Before August,9 to 12,0,1500
+60,D.Deepan,Male,WE,Sr kid,G/J/J,No reason,Before August,9 to 12,0,1500
+61,D.H.Sachiv,Male,WE,Sr kid,G/J/J,No reason,Before August,9 to 12,0,1500
+62,P.R.Athulya,Female,WE,Sr kid,G/J/J,No reason,Before August,9 to 12,0,1500
+63,harihara Priya,Female,WE,Sr kid,G/J/J,No reason,Before August,9 to 12,0,1500
+64,janesh,Male,WE,Sr kid,G/J/J,No reason,Before August,9 to 12,0,1500
+65,S.Harvin,Male,WE,Teens,G/J/J,No reason,Before August,13 to 21,0,1500
+66,Rohith prem,Male,WE,Teens,G/J/J,No reason,Before August,13 to 21,0,1500
+67,Vignesh,Male,WE,Teens,G/J/J,No reason,Before August,13 to 21,0,1500
+68,R.Janani,Female,WE,Teens,G/J/J,No reason,Before August,13 to 21,0,1500
+69,Sundaramoorthi,Male,WE,Teens,G/J/J,No reason,Before August,13 to 21,0,1500
+70,Vijayalakshmi,Female,WE,Teens,G/J/J,No reason,Before August,13 to 21,0,1500
+71,Kokila,Female,WE,Teens,G/J/J,No reason,Before August,13 to 21,0,1500
+72,Sam ,Male,WE,Toddler,G/J/J,No reason,Before August,3.5 to 5,0,1300
+73,Priyadarshini,Female,WE,Just dance,G/J/J,No reason,Before August,>22,0,1500
+74,Prinalia,Female,WE,Toddler,G/J/J,No reason,Before August,3.5 to 5,0,1300
+75,Jovina Felicia,Female,WE,Jr Kid,G/J/J,No reason,Before August,6 to 8,0,1400
+76,Viswadharshenee,Female,WE,Teens,G/J/J,No reason,Before August,13 to 21,0,1500
+77,Prabhas,Male,WE,Toddler,G/J/J,No reason,Before August,3.5 to 5,0,1300
+78,Terry,Male,WD,Toddler,G/J/J,No reason,Before August,3.5 to 5,4pm to 5 pm,1300
+79,Terry,Male,WD,Jr Kid,G/J/J,No reason,Before August,6 to 8,5pm to 6pm,1400
+80,Sathya nagarajan,Male,WE,Teens,G/J/J,No reason,Before August,13 to 21,0,1500
+81,Victor,Male,WD,Adults,G/J/J,No reason,Before August,>22,8pm to 9pm,1500
+82,Liba,Female,WE,Jr Kid,G/J/J,No reason,Before August,6 to 8,0,1400
+83,Priya,Female,WE,Adults,G/J/J,No reason,Before August,>22,0,1500
+84,Ryan,Male,WE,Toddler,G/J/J,No reason,Before August,3.5 to 5,0,1300
+85,Rishon,Male,WE,Jr kid,G/J/J,No reason,Before August,6 to 8,0,1400
+86,Sachitaa,Female,Wd,Jr Kid,G/J/J,No reason,Before August,6 to 8,5pm to 6pm,1400
+87,Sai Aarav,Male,WE,Toddler,G/J/J,No reason,Before August,3.5 to 5,0,1300
+88,Gayatri devi,Female,WD,Adults,G/J/J,husband went to korea / she went to kovilpatti - join Dec 2019 or Jan 2020,August,>22,8pm to 9pm,1500
+89,Prerna Sethia,Female,WE,Adults,G/J/J,remind on September end - not well,August,>22,0,1500
+90,Harsh Saxena,Male,WE,Adults,G/J/J,he is taking interview visiting college for office - august month busy - will call back - sep mid  month (only Sundays will try called on 13tg Aug.),August,>22,0,1500
+91,Melvin,Male,WD,Jr Kid,G/J/J,pick up and drop and safety reasons road construction on near home mother drive ,August,6 to 8,5pm to 6pm,1400
+92,Sachin,Male,WE,Sr kid,G/J/J,kid not showing int,August,9 to 12,0,1500
+93,Raghav,Male,WE,Jr Kid,G/J/J,pick up and drop   ,August,6 to 8,0,1400
+94,Karpagam,Female,WE,Zumba,VV/S,Aug and September cannot come - join October month,August,>22,7am to 8am,1500
+95,Aditya,Male,WE,Jr Kid,G/J/J,pick and drop issue,August,6 to 8,0,1400
+96,Rohit Prem,Male,WE,Teens,G/J/J,College not possible this month,August,13 to 21,0,1500
+97,Anagha,Female,WE,Jr Kid,G/J/J,car parking  problem - next week reminder call 31st Aug / went to pune will join from 14th Sep ,August,6 to 8,0,1400
+98,Nagavijayakumar,Male,WD,Adults,G/J/J,will come to class today @ 6pm,August,>22,8pm to 9pm,1500
+99,Amit Kumar,Male,WE,Adults,G/J/J,officially busy,August,>22,0,1500
+100,Punitha Ravi,Female,WE,Adults,G/J/J,timings not suitable will confirm September month,August,>22,0,1500
+101,Dheepan,Male,WD,Adults,G/J/J,not in town,August,>22,8pm to 9pm,1500
+102,Harshini,Female,WD,Sr kid,G/J/J,not int - joined some other class,August,9 to 12,6pm to 7pm,1500
+103,Prisha kasyap,Female,WE,Mini,G/J/J,not well admitted in hospital - Sep month,August,2.5 to 3.5,0,1300
+104,Prabhu,Male,WE,Zumba,VV/S,going to study for slet,August,>22,7am to 8am,1500
+105,Kiruthika,Female,WE,Jr Kid,G/J/J,leg pain after consulting with doctor will come for class,August,6 to 8,0,1400
+106,Yuvaraj,Male,WE,Adults,G/J/J,Brother marriage busy,August,>22,0,1500
+107,Yuvanaash,Male,WE,Sr kid,G/J/J,Sep month - now in native,August,9 to 12,0,1500
+108,Thanigashree,Female,WE,Toddler,G/J/J,will call back for 7th class,August,3.5 to 5,0,1300
+109,Suganya Devi,Female,WE,Just dance,G/J/J,will call back for 7th class,August,>22,0,1500
+110,Athulya,Female,WE,Sr kid,G/J/J,not picked call,August,9 to 12,0,1500
+111,Ishaan,Male,WE,Jr Kid,G/J/J,will try to come,August,6 to 8,0,1400
+112,Roshini,Female,WD,Filmy fitness,G/J/J,join from sep month - hostel studies - join sep month,August,>22,0,1500
+113,Bharthi bandi,Female,WE,Just dance,G/J/J,shifted out of Chennai,August,>22,0,1500
+114,Nitika,Female,WE,Zumba,VV/S,Aug sep month exam - join from Oct.,August,>22,7am to 8am,1500
+115,Santhana,Female,WD,Adults,G/J/J,Till sep 10th - Officially and personally ,August,>22,8pm to 9pm,1500
+116,Keshni,Female,WD,Sr kid,G/J/J,Classes there can join only after 3 months,August,9 to 12,6pm to 7pm,1500
+117,Sam,Male,WE,Toddler,G/J/J,join from Aug 1st,August,3.5 to 5,0,1300
+118,Rajakumari,Female,WE,Jr Kid,G/J/J,RNR,August,6 to 8,0,1400
+119,Medha,Female,WD,Zumba,VJ,will join from 4th sep - went to native,August,>22,10am to 11am,2000
+120,PATRICIA,Female,WD,Colors of India kids,G/J/J,Special kid - joined in hostel for sometime to see changes in her,September,3 to 12,0,1500
+121,Anitha,Female,WD,Adults,G/J/J,official meeting,September,>22,8pm to 9pm,1500
+122,Roshinni,Female,WE,Adults,G/J/J,quarterly exam will not come this month,September,>22,0,1500
+123,Sajitha,Female,WD,Zumba,VJ,marriage - join next month,September,>22,10am to 11am,2000
+124,Ganapathy,Male,WD,Toddler,G/J/J,Native - join next month,September,3.5 to 5,4pm to 5 pm,1300
+125,Krishnamoorthy,Male,WD,Adults,G/J/J,office project tin Bangalore for three months - join Jan 2020,September,>22,8pm to 9pm,1500
+126,Lal,Male,WD,Adults,G/J/J,onam festival and new born baby in Kerala / new house construction in Kerala - join October,September,>22,8pm to 9pm,1500
+127,Druva,Male,WD,Sr kid,G/J/J,yoga tournament on October month / studies / lot of other class / join from Nov. month,September,9 to 12,6pm to 7pm,1500
+128,Calvin,Male,WE,Teens,G/J/J,IIT exams - 12 std - exams - coaching class - join 2020,September,13 to 21,0,1500
+129,Archit ,Male,WD,Colors of India kids,G/J/J,Sentimental cannot able to come stopping,September,3 to 12,0,1500
+130,Achyut,Male,WD,Colors of India kids,G/J/J,Sentimental cannot able to come stopping,September,3 to 12,0,1500
+131,Manaswini,Female,WE,Jr Kid,G/J/J,Quarterly exam - join Oct. month,September,6 to 8,0,1400
+132,Krithika,Female,WE,Just dance,G/J/J,Problem in leg,September,>22,0,1500
+133,Ryan,Male,WE,Toddler,G/J/J,pick up and drop join Oct. month,September,3.5 to 5,0,1300
+134,Rishon,Male,WE,Jr Kid,G/J/J,pick up and drop join Oct. month,September,6 to 8,0,1400
+135,Deepshree,Female,WE,Zumba,VV/S,Exams - next month,September,>22,7am to 8am,1500
+136,Roshini,Female,WE,Teens,G/J/J,officially busy - next month after show,September,13 to 21,0,1500
+137,Tejasri,Female,WE,Jr Kid,G/J/J,Exams - next month,September,6 to 8,0,1400
+138,Karthik,Female,WE,Adults,G/J/J,RNR,September,>22,0,1500
+139,Soundarya,Female,WD,Adults,G/J/J,Not in town next month,October,>22,8pm to 9pm,1500
+140,Soundarya,Female,WD,Colors of India,G/J/J,Not in town next month,October,>22,0,1500
+141,Amit,Male,WE,Adults,G/J/J,officially busy this month,October,>22,0,1500
+142,Rakul,Male,WE,Teens,G/J/J,join next month,October,13 to 21,0,1500
+143,Sachwin Viabav,Male,WD,Toddler,G/J/J,still in native will update,October,3.5 to 5,4pm to 5 pm,1300
+144,Janani,Female,WD,Zumba,VJ,office time schedule is not  set yet / after Diwali still that I cant confirm,October,>22,10am to 11am,2000
+145,Nivedita mitra,Female,WD,Adults,G/J/J,not answering,October,>22,8pm to 9pm,1500
+146,Priyankaa,Female,WD,Zumba,VJ,rnr,October,>22,10am to 11am,2000
+147,Rakul,Male,WE,Teens,G/J/J,lots of holidays this month join next month,October,13 to 21,0,1500
+148,Rohit,Male,WE,Teens,G/J/J,lots of holidays this month join next month,October,13 to 21,0,1500
+149,Aiswarya,Female,WE,Zumba,VV/S,Personal issue join November,October,>22,7am to 8am,1500
+150,Vidyut ,Male,WE,Mini,G/J/J,not well & lot of functions join Nov. month,October,2.5 to 3.5,0,1300
+151,Isha Magesh,Female,WE,Jr Kid,G/J/J,Diwali and other functions,October,6 to 8,0,1400
+152,Arjun,n,WE,Mini,G/J/J,Diwali and other functions,October,2.5 to 3.5,0,1300
+153,Nakul kumar,n,WE,Jr Kid,G/J/J,Diwali and other functions,October,6 to 8,0,1400
+154,Farhath khan,n,WE,Just dance,G/J/J,Join Dec month,October,>22,0,1500
+155,Saranya,Female,WE,Zumba,VV/S,Rnr,October,>22,7am to 8am,1500
+156,Priti vardhan,Female,WE,Jr Kid,G/J/J,not answering,October,6 to 8,0,1400
+157,Divya malani,Female,WE,Adults,G/J/J,rnr,October,>22,0,1500
+158,Nilavalagan,Male,WE,Adults,G/J/J,rnr,October,>22,0,1500
+159,Deva,Male,WD,Adults,G/J/J,Rnr,October,>22,8pm to 9pm,1500
+160,Deva,Male,WD,Colors of India,G/J/J,rnr,October,>22,0,1500
+161,Farhana,Female,WD,Colors of India,G/J/J,kid not well,October,>22,0,1500
+162,Sanjay shri,Male,WE,Toddler,G/J/J,paid reg on sep after that rnr,October,3.5 to 5,0,1300
+163,Manish ,Male,WE,Jr kid,G/J/J,kid not showing int,October,6 to 8,0,1400
+164,Aksara,Female,WE,Jr kid,G/J/J,join after Diwali,October,6 to 8,0,1400
